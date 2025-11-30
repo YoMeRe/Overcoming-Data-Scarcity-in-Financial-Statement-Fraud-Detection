@@ -1,3 +1,6 @@
+# Overcoming Data Scarcity in Financial Statement Fraud Detection
+This repository is used to provide access to the code used for my master thesis.
+
 ##### **Sources for GAN models**
 _CTGAN_
 Xu, L., Skoularidou, M., Cuesta-Infante, A., & Veeramachaneni, K. (2019).
