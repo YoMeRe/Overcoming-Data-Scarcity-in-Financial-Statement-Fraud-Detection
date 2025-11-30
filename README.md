@@ -4,6 +4,12 @@ This repository is used to provide access to the code used for my master thesis.
 -> analysis.ipynb contains the main analysis for results published in the thesis body
 -> figures.ipynb contains the figures and plots created for the thesis
 
+**Computer Specs**
+OS: Linux Mint 22.2 Cinnamon (6.4.8)
+CPU: AMD Ryzen 7 5800X 8 Core
+RAM: 32 GB
+GPU: NVIDIA GeForce RTX 4070 
+
 ##### **Sources for GAN models**
 _CTGAN_
 Xu, L., Skoularidou, M., Cuesta-Infante, A., & Veeramachaneni, K. (2019).
